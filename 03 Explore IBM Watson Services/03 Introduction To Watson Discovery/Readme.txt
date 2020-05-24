@@ -1,22 +1,18 @@
-Create A Node-RED Starter Application
-Duration: 1 Days
+Introduction To Watson Assistance
+Duration: 2 Days
+
+Watson Assistant is a conversation AI platform that helps you provide customers fast, straightforward and accurate answers to their questions, across any application, device or channel. By addressing common customer inquiries, Watson Assistant reduces the cost of customer interactions, helping your agents focus on complex use cases – not repetitive responses.
+
+https://www.ibm.com/cloud/watson-assistant/
 
 
-Objectives:
 
-Create a Node-RED Starter application running in the IBM Cloud
-Secure the application
-Customize the Node-RED Starter Kit by adding additional nodes
+STEP 1 - LEARNING PATH WATSON DISCOVERY https://developer.ibm.com/articles/introduction-watson-discovery/
 
-Go through the Node-RED Starter Tutorial in References.
+STEP 2 - DOCUMENTATION https://cloud.ibm.com/docs/services/discovery?topic=discovery-getting-started
 
+STEP 3 - WATSON DISCOVERY CHATBOT-REFERENCE https://medium.com/@rimaibrahim/node-red-watson-discovery-chatbot-telegram-ce616ddcd0d9
 
-STEP 1 - Node-RED starter tutorial https://developer.ibm.com/tutorials/how-to-create-a-node-red-starter-application/
+STEP 4 - NODE RED LABS: WATSON DISCOVERY WITH 
 
-STEP 2 - What is Node-RED? https://nodered.org/
-
-STEP 3 - Learn More with Node-RED Labs https://github.com/watson-developer-cloud/node-red-labs
-
-STEP 4 - What is an API? https://www.youtube.com/watch?v=s7wmiS2mSXY&feature=youtu.be
-
-STEP 5 - Create a simple webpage https://www.w3schools.com/howto/howto_make_a_website.asp
+STEP 5 - XTRACT ANSWERS FROM LARGE DOCUMENT IN 5 MINUTES https://www.youtube.com/embed/Jpr3wVH3FVA
