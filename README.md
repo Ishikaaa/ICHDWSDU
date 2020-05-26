@@ -50,3 +50,7 @@ Scope of Work
 - Use Smart Document Understanding to build an enhanced Watson Discovery collection
 - Create an IBM Cloud Functions web action that allows Watson Assistant to post queries to Watson Discovery
 - Build a web application with integration to all these services & deploy the same on IBM Cloud Platform
+
+YouTube link - https://www.youtube.com/watch?v=CoUCYuhPf4U&feature=youtu.be
+
+Node-red UI link - https://node-red-gargsul.eu-gb.mybluemix.net/ui/#!/0?socketid=wl7_0d3IJjx0tHbLAABk
