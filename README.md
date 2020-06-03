@@ -54,3 +54,5 @@ Scope of Work
 YouTube link - https://www.youtube.com/watch?v=CoUCYuhPf4U
 
 Node-red UI link - https://node-red-gargsul.eu-gb.mybluemix.net/ui/#!/0?socketid=wl7_0d3IJjx0tHbLAABk
+
+Certificate Link - https://smartinternz.com/internships/certificates/94f6d7e04a4d452035300f18b984988c
